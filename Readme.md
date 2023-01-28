@@ -1,6 +1,6 @@
 # Spis treści
 
-Tematy labolatoriów:
+Tematy poruszane na labolatoriach:
 * [1. Regresja liniowa i logistyczna](lab1/Readme.md)
 * [2. Lasy decyzyjne i boosting](lab2/Readme.md)
 * [3. Sieci neuronowe](lab3/Readme.md)
@@ -9,4 +9,4 @@ Tematy labolatoriów:
 * [6. Algorytmy rekomendacyjne](lab6/Readme.md)
 * [7. Podejmowanie decyzji*](lab7/Readme.md)
 
-* - saved as html/pdf
+*- saved as html/pdf
